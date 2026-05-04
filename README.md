@@ -2,8 +2,8 @@
 
 A Progressive Web App that installs on your iPhone home screen, tracks the 2026 F1 season in real time, and runs a machine learning model to predict tire degradation curves and recommend pit windows.
 
-Live demo: [f1app-seven.vercel.app](https://f1app-seven.vercel.app)
-
+Live demo: https://f1telemetry-pwa.vercel.app/
+Railway: https://f1-strategy-api-production.up.railway.app/
 ---
 
 ## What it does
